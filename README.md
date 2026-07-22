@@ -1,1 +1,1 @@
-[Pretentious self description]
+Full stack application developer

@@ -1,4 +1,4 @@
-# Timothy James Marias
+# Timothy Marias
 
 Software engineer in Oregon. I work primarily on web applications and backend systems as well as some mobile/native development.
 
